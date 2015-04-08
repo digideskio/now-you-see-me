@@ -1,5 +1,5 @@
 === Zing! ===
-Contributors:      fjarrett
+Contributors:      jonorherrington
 Tags:              admin
 Requires at least: 2.3
 Tested up to:      4.1
