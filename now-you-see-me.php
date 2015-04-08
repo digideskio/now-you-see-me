@@ -35,7 +35,7 @@ function nysm_admin_head() {
 	<script>
 	jQuery( document ).ready( function( $ ) {
 		$( document ).keypress( function( e ) {
-			if ( 122 === e.which ) {
+			if ( 104 === e.which ) {
 				$( 'body' ).toggleClass( 'now-you-see-me' );
 			}
 		});
