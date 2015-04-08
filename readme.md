@@ -11,8 +11,6 @@ Turn your admin panel upside down. Literally.
 **Stable tag:** trunk (master)  
 **License:** [GPLv2 or later](http://www.gnu.org/licenses/gpl-2.0.html)  
 
-[![Build Status](https://travis-ci.org/fjarrett/zing.png?branch=master)](https://travis-ci.org/fjarrett/zing) 
-
 ## Description ##
 
 **Did you find this plugin helpful? Please consider [leaving a 5-star review](https://wordpress.org/support/view/plugin-reviews/zing).**
