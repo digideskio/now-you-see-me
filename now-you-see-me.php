@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Now You See Me!
  * Description: Hide your admin panel like a boss.
- * Version: 0.1.0
+ * Version: 1.0.0
  * Author: Jono Herrington
  * Author URI: http://createstopbecreative.com
  * License: GPLv2+
