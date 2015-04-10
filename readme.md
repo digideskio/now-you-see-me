@@ -33,9 +33,7 @@ Press the `h` key to toggle _Now You See Me_ on and off.
 
 ## Changelog ##
 
-### 0.1.0 - April 10, 2015 ###
 * Initial release
 
 Props [jonorherrington](https://profiles.wordpress.org/jonorherrington/) as well as to the author of _Zing!_ [fjarrett](https://profiles.wordpress.org/fjarrett/)
-
 
