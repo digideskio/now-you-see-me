@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-=== Zing! ===
-=======
 === Now You See Me! ===
->>>>>>> develop
 Contributors:      jonorherrington
 Tags:              admin
 Requires at least: 2.3
@@ -32,6 +28,8 @@ Press the `h` key to toggle _Now You See Me_ on and off.
 **Development of this plugin is done [on GitHub](https://github.com/jonorherrington/NowYouSeeMe). Pull requests welcome. Please see [issues reported](https://github.com/jonorherrington/NowYouSeeMe/issues) there before going to the plugin forum.**
 
 == Changelog ==
+
+= 0.1.0 - April 10, 2015 =
 
 * Initial release
 

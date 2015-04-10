@@ -11,7 +11,7 @@ Hide your admin panel ... like a boss!
 **Stable tag:** trunk (master)  
 **License:** [GPLv2 or later](http://www.gnu.org/licenses/gpl-2.0.html)  
 
-[![Build Status](https://travis-ci.org/jonorherrington/NowYouSeeMe.png?branch=master)](https://travis-ci.org/jonorherrington/NowYouSeeMe) 
+[![Build Status](https://travis-ci.org/jonorherrington/now-you-see-me.png?branch=master)](https://travis-ci.org/jonorherrington/now-you-see-me) 
 
 ## Description ##
 
@@ -33,7 +33,9 @@ Press the `h` key to toggle _Now You See Me_ on and off.
 
 ## Changelog ##
 
+### 0.1.0 - April 10, 2015 ###
 * Initial release
 
 Props [jonorherrington](https://profiles.wordpress.org/jonorherrington/) as well as to the author of _Zing!_ [fjarrett](https://profiles.wordpress.org/fjarrett/)
+
 
